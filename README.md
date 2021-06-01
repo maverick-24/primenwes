@@ -3,8 +3,9 @@
 A new Flutter project.
 
 ## Getting Started
+ This is a news App with all features,you can download it and reuse it for other purposes or read the latest.
 
-This project is a starting point for a Flutter application.
+Tou can Use This project as a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
